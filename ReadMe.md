@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-first gir repo
+first git repo
